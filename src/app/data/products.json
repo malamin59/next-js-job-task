@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 15 Pro",
+    "description": "Experience cutting-edge technology with the iPhone 15 Pro. Featuring a stunning display, powerful A17 chip, and advanced camera system for pro-level photography.",
+    "price": 1299,
+    "category": "Smartphones",
+    "image": "/images/iphone15pro.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "The Galaxy S24 Ultra delivers ultimate performance with 200MP camera, 6.9-inch AMOLED display, and lightning-fast Snapdragon 8 Gen 3 processor.",
+    "price": 1199,
+    "category": "Smartphones",
+    "image": "/images/galaxyS24.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5 Headphones",
+    "description": "Industry-leading noise cancellation, superior sound quality, and up to 30 hours battery life. Perfect for music lovers and professionals alike.",
+    "price": 399,
+    "category": "Headphones",
+    "image": "/images/sonyWH1000xm5.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dell XPS 13 Laptop",
+    "description": "A compact and powerful ultrabook with Intel Core i7, 16GB RAM, 512GB SSD, and stunning 13.4-inch display. Ideal for work and creativity on the go.",
+    "price": 1099,
+    "category": "Laptops",
+    "image": "/images/dellXPS13.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Nike Air Zoom Pegasus 40",
+    "description": "Lightweight running shoes designed for speed and comfort. Breathable mesh upper with responsive cushioning for long-distance running.",
+    "price": 120,
+    "category": "Shoes",
+    "image": "/images/nikePegasus40.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Canon EOS R6 Camera",
+    "description": "Full-frame mirrorless camera with 20MP sensor, 4K video, and advanced autofocus. Perfect for photographers and videographers.",
+    "price": 2499,
+    "category": "Cameras",
+    "image": "/images/canonEOSR6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Apple Watch Series 9",
+    "description": "Stay connected and track your health with the Apple Watch Series 9. ECG, blood oxygen, and workout tracking all in a sleek design.",
+    "price": 399,
+    "category": "Wearables",
+    "image": "/images/appleWatch9.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Amazon Echo Dot (5th Gen)",
+    "description": "Smart speaker with Alexa, compact design, and superior sound. Control your smart home and enjoy music effortlessly.",
+    "price": 49,
+    "category": "Smart Home",
+    "image": "/images/echoDot5.jpg"
+  }
+]
