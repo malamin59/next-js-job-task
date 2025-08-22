@@ -1,9 +1,12 @@
+import Hero from "./components/Hero";
 
 
 export default function Home() {
   return (
     <div>
-      this is the Home Page in my Next.js App
-    </div>
+    <main>
+      <Hero/>
+    </main>
+     </div>
   );
 }
