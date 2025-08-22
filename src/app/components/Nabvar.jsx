@@ -1,3 +1,4 @@
+"use client";
 import Link from "next/link";
 
 export default function Navbar() {
@@ -35,26 +36,30 @@ export default function Navbar() {
             <li>
               <Link href="/login">Login</Link>
             </li>
+            <li>
+              <Link href="/dashboard">Dashboard</Link>
+            </li>
           </ul>
         </div>
-       
       </div>
 
       {/* Navbar Center */}
       <div className="navbar-center hidden px-2 my-2 lg:flex w-full">
-  <ul className="menu menu-horizontal flex justify-between w-full px-4">
-    <li>
-      <Link href="/">Home</Link>
-    </li>
-    <li>
-      <Link href="/products">Products</Link>
-    </li>
-    <li>
-      <Link href="/login">Login</Link>
-    </li>
-  </ul>
-</div>
-
+        <ul className="menu menu-horizontal flex justify-between w-full px-4">
+          <li>
+            <Link href="/">Home</Link>
+          </li>
+          <li>
+            <Link href="/products">Products</Link>
+          </li>
+          <li>
+            <Link href="/login">Login</Link>
+          </li>
+          <li>
+            <Link href="/dashboard">Dashboard</Link>
+          </li>
+        </ul>
+      </div>
     </div>
   );
 }
