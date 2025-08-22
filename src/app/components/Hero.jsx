@@ -26,7 +26,7 @@ const Hero = () => {
             </p>
 
             {/* Features */}
-            <div className="flex flex sm:flex-row sm:justify-center lg:justify-start gap-4 text-gray-700 text-sm sm:text-base">
+            <div className="flex  sm:flex-row sm:justify-center lg:justify-start gap-4 text-gray-700 text-sm sm:text-base">
               <div className="flex items-center gap-2">
                 <AiOutlineCheckCircle className="text-green-500" />
                 Easy to Use
@@ -66,14 +66,12 @@ const Hero = () => {
               <Image
                 src="/job-task.jpeg"
                 alt="Job Task Hero"
-                width={600}
-                height={600}
+                width={6000}
+                height={6000}
                 className="object-cover rounded-2xl shadow-xl w-full h-auto"
                 priority
               />
-              Decorative Circles
-              <div className="absolute -top-6 -left-6 w-24 h-24 bg-indigo-200 rounded-full opacity-70 blur-xl"></div>
-              <div className="absolute -bottom-10 -right-10 w-28 h-28 bg-purple-200 rounded-full opacity-70 blur-xl"></div>
+              
             </div>
           </div>
 
